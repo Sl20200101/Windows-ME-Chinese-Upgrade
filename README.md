@@ -26,6 +26,12 @@ The **Simplified Chinese edition has been officially released** as part of this 
 
 The **Traditional Chinese edition has not yet been released or publicly announced**.
 
+## Screenshot
+
+Below is a screenshot of the **Simplified Chinese Windows ME installation process**:
+
+![Windows ME Simplified Chinese Installation](./teat.png)
+
 ## What Is Windows ME 112-Upgrade?
 
 Windows Millennium Edition (Windows ME) is a consumer operating system released by Microsoft in **2000**, succeeding Windows 98 and preceding Windows XP.
@@ -83,6 +89,16 @@ The Simplified Chinese edition is the currently published Chinese version of thi
 The Traditional Chinese edition is currently under development and has **not been publicly released**.
 
 Information about its release will be provided separately when it is ready.
+
+## License
+
+This project does not provide source code and is not released under an open-source software license.
+
+The files included in this repository are modified distribution files based on **Windows ME 112-Upgrade (English)**.
+
+Microsoft Windows ME and all related Microsoft software, trademarks, and copyrights remain the property of Microsoft Corporation.
+
+This project does not claim ownership of Microsoft's original software.
 
 ## Credits
 
